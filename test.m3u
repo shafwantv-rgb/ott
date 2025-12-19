@@ -1,0 +1,71 @@
+#EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"
+
+# ---------- MALAYSIA ----------
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" group-title="Malaysia",Astro Ceria
+http://iptv-org.github.io/iptv-channels/MY/AstroCeria.m3u8
+
+#EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Astro Oasis" group-title="Malaysia",Astro Oasis
+http://iptv-org.github.io/iptv-channels/MY/AstroOasis.m3u8
+
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" group-title="Malaysia",Astro Awani
+http://iptv-org.github.io/iptv-channels/MY/AstroAwani.m3u8
+
+#EXTINF:-1 tvg-id="AstroNaura.my" tvg-name="Astro Naura" group-title="Malaysia",Astro Naura
+http://iptv-org.github.io/iptv-channels/MY/AstroNaura.m3u8
+
+#EXTINF:-1 tvg-id="AstroAEC.my" tvg-name="Astro AEC" group-title="Malaysia",Astro AEC
+http://iptv-org.github.io/iptv-channels/MY/AstroAEC.m3u8
+
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="RTM TV1" group-title="Malaysia",RTM TV1
+http://iptv-org.github.io/iptv-channels/MY/TV1.m3u8
+
+#EXTINF:-1 tvg-id="TV2.my" tvg-name="RTM TV2" group-title="Malaysia",RTM TV2
+http://iptv-org.github.io/iptv-channels/MY/TV2.m3u8
+
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3 Malaysia" group-title="Malaysia",TV3
+http://iptv-org.github.io/iptv-channels/MY/TV3.m3u8
+
+#EXTINF:-1 tvg-id="DidikTV.my" tvg-name="DidikTV" group-title="Malaysia",DidikTV
+http://iptv-org.github.io/iptv-channels/MY/DidikTV.m3u8
+
+#EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9 Malaysia" group-title="Malaysia",TV9
+http://iptv-org.github.io/iptv-channels/MY/TV9.m3u8
+
+# ---------- SINGAPORE ----------
+#EXTINF:-1 tvg-id="CNA.sg" tvg-name="CNA" group-title="Singapore",CNA (Channel News Asia)
+http://iptv-org.github.io/iptv-channels/SG/CNA.m3u8
+
+# ---------- KOREA ----------
+#EXTINF:-1 tvg-id="Arirang.kr" tvg-name="Arirang" group-title="Korea",Arirang
+http://iptv-org.github.io/iptv-channels/KR/Arirang.m3u8
+
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS World" group-title="Korea",KBS World
+http://iptv-org.github.io/iptv-channels/KR/KBSWorld.m3u8
+
+# ---------- JAPAN ----------
+#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-name="NHK World Japan" group-title="Japan",NHK World Japan
+http://iptv-org.github.io/iptv-channels/JP/NHKWorld.m3u8
+
+# ---------- CHINA ----------
+#EXTINF:-1 tvg-id="CCTV4.cn" tvg-name="CCTV-4" group-title="China",CCTV-4
+http://iptv-org.github.io/iptv-channels/CN/CCTV4.m3u8
+
+# ---------- VIETNAM ----------
+#EXTINF:-1 tvg-id="VTV4.vn" tvg-name="VTV4 Vietnam" group-title="Vietnam",VTV4
+http://iptv-org.github.io/iptv-channels/VN/VTV4.m3u8
+
+# ---------- INDONESIA ----------
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="Indonesia",TVRI
+http://iptv-org.github.io/iptv-channels/ID/TVRI.m3u8
+
+# ---------- THAILAND ----------
+#EXTINF:-1 tvg-id="Channel7.th" tvg-name="Channel 7 Thailand" group-title="Thailand",Channel 7
+http://iptv-org.github.io/iptv-channels/TH/Channel7.m3u8
+
+# ---------- PHILIPPINES ----------
+#EXTINF:-1 tvg-id="ABSCBN.ph" tvg-name="ABS-CBN News" group-title="Philippines",ABS-CBN News
+http://iptv-org.github.io/iptv-channels/PH/ABSCBNNews.m3u8
+
+# ---------- CARTOON / ENTERTAINMENT ----------
+#EXTINF:-1 tvg-id="CartoonNetworkAsia" tvg-name="Cartoon Network Asia" group-title="Kids",Cartoon Network Asia
+http://iptv-org.github.io/iptv-channels/AS/CartoonNetwork.m3u8
